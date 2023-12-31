@@ -1,7 +1,7 @@
 #ifndef ESCENAJUEGO_H
 #define ESCENAJUEGO_H
 
-
+//
 #include <QGraphicsScene>
 #include <QTransform>
 
