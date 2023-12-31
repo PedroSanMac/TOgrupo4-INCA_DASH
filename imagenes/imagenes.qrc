@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>all_numbers.png</file>
+        <file>fondoMP.png</file>
+	<file>fondoNoche.png</file>
+        <file>bg_gameover.png</file>
+        <file>bg_pause.png</file>
+        <file>piso.png</file>
+        <file>personInca2.png</file>
+    </qresource>
+</RCC>
