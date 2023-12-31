@@ -28,6 +28,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         escenajuego.h escenajuego.cpp
         juego.h juego.cpp
         imagenes/imagenes.qrc
+
+        imagenes/imagenes.qrc
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET PROYECTO_FINAL APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
